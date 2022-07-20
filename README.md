@@ -23,4 +23,4 @@ This project was given to me in during Intershala C and C++ training. In this I 
       
 **6. Match End criteria** 🚫
 >-    If runs scored by TeamA is greater than the opponent TeamB, then TeamA will win the game or vice-versa.
->-    If runs scored by TeamA and TeamB are the same then the match will draw. 7.
+>-    If runs scored by TeamA and TeamB are the same then the match will draw. 
